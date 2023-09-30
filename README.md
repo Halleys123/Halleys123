@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Under Development (Very low chances that I will ever make it) 
 </h1>
-<!--
-<p align="center">
-  <img src= "https://gifdb.com/images/high/hacker-with-black-mask-0ghpmuaehzhd6e17.webp", height = "400">
-</p>
--->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Halleys123&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Halleys123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
