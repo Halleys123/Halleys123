@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Under Development (Very low chances that I will ever make it) 
+  Under Development
 </h1>
 
 # 📊 GitHub Stats:
