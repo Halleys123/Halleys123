@@ -1,48 +1,25 @@
-# 🚀 GitHub Stats:
+<!--
+**Halleys123/Halleys123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
+Here are some ideas to get you started:
 
-### **👨‍💻 Arnav Chhabra's GitHub Stats**  
-💡 *Contributing since* **May 8, 2020**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-#### Contributions Overview:
-| Total Contributions | Current Streak | Longest Streak |
-|:--------------------:|:--------------:|:--------------:|
-| **1,673**           | **🔥 12 Days** | **21 Days**    |
+<h1 align="center">
+  Under Development
+</h1>
 
----
-
-#### 📊 GitHub Insights:
-
-<div align="center">
-
-| **Metric**           | **Value** |
-|-----------------------|-----------|
-| ⭐ **Total Stars**     | 5         |
-| 🔄 **Total Commits**   | 400       |
-| 🛠️ **Total PRs**       | 57        |
-| ❓ **Total Issues**    | 4         |
-| 📅 **Contributed in Last Year** | 3 |
-
-![Progress](https://progress-bar.dev/55/?width=200&title=GitHub%20Grade%20B-&style=flat&color=blue)
-
-</div>
-
----
-
-#### 🚀 Most Used Languages:
-
-![HTML](https://img.shields.io/badge/HTML-49.26%25-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-15.64%25-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-14.98%25-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-10.51%25-blue?style=flat-square&logo=typescript)
-![SCSS](https://img.shields.io/badge/SCSS-6.68%25-pink?style=flat-square&logo=sass)
-![C++](https://img.shields.io/badge/C++-2.93%25-purple?style=flat-square&logo=cplusplus)
-
----
-
-#### 📈 Activity Graph:
-
-[![Arnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Halleys123&bg_color=0d1117&color=58a6ff&line=9cdbff&point=f2f2f2&area=true&hide_border=true)](https://github.com/Halleys123)
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Halleys123&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Halleys123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Halleys123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Halleys123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
