@@ -43,6 +43,6 @@
 
 #### 📈 Activity Graph:
 
-[![Arnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArnavChhabra&bg_color=0d1117&color=58a6ff&line=9cdbff&point=f2f2f2&area=true&hide_border=true)](https://github.com/ArnavChhabra)
+[![Arnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Halleys123&bg_color=0d1117&color=58a6ff&line=9cdbff&point=f2f2f2&area=true&hide_border=true)](https://github.com/Halleys123)
 
 </div>
