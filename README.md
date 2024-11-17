@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Arnav
-### Frontend Developer from India 🇮🇳
+### Web Developer from India 🇮🇳
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnavchhabra3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/arnavchhabra3)
 [![Github Profile](https://img.shields.io/github/followers/halleys123?color=181717&logo=github&style=for-the-badge)](https://github.com/halleys123)
