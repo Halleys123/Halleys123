@@ -12,8 +12,8 @@
 
 ```javascript
 const arnav = {
-    role: "Frontend Developer",
-    currentlyWorking: "Concept11",
+    role: "Web Developer",
+    startup: "Concept11",
     learning: "System Design",
     askMeAbout: ["React", "Express", "Web Development"],
     contact: "arnavadvik2003@gmail.com"
