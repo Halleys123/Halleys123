@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Arnav
+# 👋 Hi, I'm Arnav Chhabra
 ### Web Developer from India 🇮🇳
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnavchhabra3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/arnavchhabra3)
