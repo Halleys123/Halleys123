@@ -33,8 +33,8 @@ const arnav = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CPP](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-Programming%20Language-brightgreen&logoColor=white)
+![CPP](https://img.shields.io/badge/-C++-blue?logo=cplusplus&?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-Programming%20Language-brightgreen?style=for-the-badge&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
