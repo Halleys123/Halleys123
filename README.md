@@ -65,7 +65,7 @@ const arnav = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=halleys123&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halleys123&theme=radical" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=halleys123&theme=radical&hide_border=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 </div>
 
