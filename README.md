@@ -15,7 +15,7 @@ const arnav = {
     role: "Web Developer",
     startup: "Concept11",
     learning: "System Design",
-    askMeAbout: ["React", "Express", "Web Development"],
+    askMeAbout: ["Web Development", "Windows Programming"],
     contact: "arnavadvik2003@gmail.com"
 };
 ```
