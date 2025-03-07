@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 
-
 ```javascript
 const arnav = {
     role: "Web Developer",
