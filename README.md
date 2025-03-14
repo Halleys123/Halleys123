@@ -20,7 +20,6 @@ const arnav = {
 };
 ```
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
